@@ -2204,7 +2204,7 @@ input, select, textarea {
 			border-radius: 0;
 		}
 
-			.image.main img {
+			.image. img {
 				border-radius: 0;
 			}
 
@@ -2961,7 +2961,7 @@ input, select, textarea {
 				}
 
 			.image.main {
-				height: 20em;
+				height: 25em;
 			}
 
 		/* Header */
@@ -3143,7 +3143,7 @@ input, select, textarea {
 			}
 
 			.image.main {
-				height: 12em;
+				height: 10em;
 			}
 
 		/* Section/Article */
