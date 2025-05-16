@@ -2198,13 +2198,13 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image. {
+		.image.main {
 			display: block;
 			height: 20em;
 			border-radius: 0;
 		}
 
-			.image. img {
+			.image.main img {
 				border-radius: 0;
 			}
 
