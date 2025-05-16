@@ -2198,7 +2198,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		.image.main {
+		.image. {
 			display: block;
 			height: 20em;
 			border-radius: 0;
@@ -3143,7 +3143,7 @@ input, select, textarea {
 			}
 
 			.image.main {
-				height: 6em;
+				height: 12em;
 			}
 
 		/* Section/Article */
